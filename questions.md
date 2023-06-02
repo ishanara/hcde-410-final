@@ -4,6 +4,10 @@
 - I want to understand the if there is a strong relationship between the following variables and Drug related deaths: Age, Race, City, Ethnicity, and Sex. I hope to learn how these factors affect drug related deaths. Afterwards I am going to do more research to understand why. 
 
 
+- Pivot: Insitituional Racism in the United States, prison industrial complex
+    - Research Questions: Does the prison system in america disproportionaly affect people of color and why? 
+    - 
+
 2) Data selected for analysis
 - This dataset analyzes accidental deaths associated with drug overdoses in Connecticut from 2012 to 2021. The data is derived from an investigation by the Office of the Cheif Medical Examiner which includes the toxicity report and death certificate. There are 48 columns in the dataset. 
 - Link to Data Set: https://www.kaggle.com/datasets/utkarshx27/accidental-drug-related-deaths-2012-2021
